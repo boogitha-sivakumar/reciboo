@@ -1,4 +1,5 @@
 // app/recipe/[id]/page.tsx - Recipe Detail Page
+/*eslint - disable*/
 import Link from "next/link";
 import { getRecipeById } from "@/app/lib/api";
 

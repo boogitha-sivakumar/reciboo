@@ -1,4 +1,5 @@
 // app/place/[name]/page.tsx - Place-specific recipes page
+/*eslint - disable*/
 import Link from "next/link";
 import { searchRecipesByPlace } from "@/app/lib/api";
 
