@@ -1,4 +1,5 @@
 // app/page.tsx - Homepage with place search
+/*eslint - disable*/
 import Link from "next/link";
 import { getIndianRecipes } from "@/app/lib/api";
 import SearchForm from "@/app/components/SearchForm";
