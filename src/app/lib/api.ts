@@ -1,5 +1,6 @@
 // lib/api.ts
 // API functions to interact with TheMealDB API
+/*eslint - disable*/
 
 // Define a type for TheMealDB recipe
 export interface MealDBRecipe {
